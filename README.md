@@ -14,7 +14,6 @@ Hello, Guido. Python is 8 years older than you are!
 Note that the text: "Guido" and "16" are entered by the **user** running the program. The final line ("Hello...")
 is generated *dynamically* when you run the program, based on the name and age that the user enters.
 
-Please see the short [example of using input]
-(https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/Introduction-to-Github-with-Runpython#input) for clues as to how you might go about writing this program. You will probably also have to understand the 
+Please see the short [example of using ```input```](https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/Introduction-to-Github-with-Runpython#input) for clues as to how you might go about writing this program. You will probably also have to understand the 
 [questions](https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/Introduction-to-Github-with-Runpython#questions-1)
 that follow.
